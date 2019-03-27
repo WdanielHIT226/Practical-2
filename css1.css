@@ -1,0 +1,38 @@
+h1{
+	width:600px;
+	line-height:43px;
+	margin: 50px auto 20px;
+	font-size:35px;
+	color:#084B86;
+	text-align:center;
+	
+	border-radius:3px;	
+}
+
+body{
+	font:14px/20px "Noto Sans", Helvetica, Arial, "Microsoft Sans Serif", sans-serif;
+	background:#b3cbf2;
+	
+	
+}
+.reg_form{
+	margin:0 auto;
+	width: 800px;
+	padding:40px;
+	background:#f7f1ef;
+	border-radius:3px;
+	font-weight: 200;
+	font-size:29px;
+}
+input{
+	width: 90%;
+	padding: 1em;
+	line-height: 1;
+	font-family:inherit;
+	font-size:inherit;
+	box-sizing: border-box;
+	color:inherit;
+}
+p{
+	color:#0143ad;	
+}
